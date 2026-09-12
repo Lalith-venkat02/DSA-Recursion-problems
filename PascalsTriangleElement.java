@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// Recursively finds and prints a specified element from Pascal's Triangle.
 public class PascalsTriangleElement {
 
     // Recursive function to get element at row n, column m in Pascal's Triangle
